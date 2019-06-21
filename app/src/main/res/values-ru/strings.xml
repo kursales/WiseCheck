@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_allClients">"Все клиенты "</string>
+    <string name="btn_Reduact">Редактировать</string>
+    <string name="btn_create">добавить клиента</string>
+    <string name="btn_delete">удалить клиента</string>
+    <string name="create_fio">ФИО</string>
+    <string name="birthdayDay">Дата рождения</string>
+    <string name="create">создать</string>
+    <string name="create_position">Профессия</string>
+    <string name="create_uri">url картинки</string>
+</resources>

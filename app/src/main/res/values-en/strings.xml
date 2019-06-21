@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_Reduact">Redact</string>
+    <string name="btn_allClients">All Clients</string>
+    <string name="btn_create">add Client</string>
+    <string name="btn_delete">Delete Client</string>
+    <string name="create_fio">FIO</string>
+    <string name="birthdayDay">Date of Birth</string>
+    <string name="create_position">Position</string>
+    <string name="create_uri">url image</string>
+    <string name="create">Create</string>
+</resources>
